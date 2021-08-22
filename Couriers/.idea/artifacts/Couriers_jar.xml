@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Couriers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Couriers_jar</output-path>
+    <root id="archive" name="Couriers.jar">
+      <element id="module-output" name="Couriers" />
+      <element id="module-source" name="Couriers" />
+    </root>
+  </artifact>
+</component>
